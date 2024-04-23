@@ -9,7 +9,7 @@ function drawTriangle(height, symbol = '*', inverted = true) {
         }
     }
 }
-
+// ------ //
 drawTriangle(5, '*', false); 
 console.log(); 
 drawTriangle(5, '*'); 
